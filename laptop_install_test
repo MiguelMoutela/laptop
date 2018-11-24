@@ -91,10 +91,10 @@ is_gui_app_installed() {
 
 GUI_APPS=(
   "google chrome"
-  # "atom"
+  "atom"
   "slack"
   "insomnia"
-  # "intellij idea ce"
+  "intellij idea ce"
   "mongodb compass community"
 )
 
